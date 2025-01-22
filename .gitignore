@@ -1,0 +1,12 @@
+.idea/
+.ipynb_checkpoints/
+__pycache__/
+catboost_info/
+catboost_focal_loss/
+.DS_Store
+
+*.csv
+*.zip
+
+test_task.py
+utils.py
